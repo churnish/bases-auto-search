@@ -1,6 +1,6 @@
 # Bases Auto Search
 
-Automatically opens the search bar when any [Bases](https://obsidian.md/blog/bases/) view loads.
+Automatically bring up the search bar in [Bases](https://obsidian.md/blog/bases/).
 
 ## Installation
 

@@ -3,7 +3,7 @@
 	"name": "Bases Auto Search",
 	"version": "0.0.1",
 	"minAppVersion": "1.12.0",
-	"description": "Automatically open the search bar when a Bases view loads.",
+	"description": "Automatically bring up the search bar in Bases.",
 	"author": "churnish",
 	"isDesktopOnly": false
 }
