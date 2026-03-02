@@ -15,14 +15,11 @@ Until _Bases Auto Search_ is [made available](https://github.com/obsidianmd/obsi
 
 <details><summary>Install manually</summary>
 
-Note: To get updates for _Bases Auto Search_, you will have to check for and install them manually.
-
-1. Download `main.js` and `manifest.json` from the [latest release](https://github.com/churnish/bases-auto-search/releases).
+1. Download `bases-auto-search.zip` in the `Assets` of the [latest release](https://github.com/churnish/bases-auto-search/releases).
 2. Open the vault folder in the system file manager.
-3. Navigate to your Obsidian config folder (`.obsidian` by default, hidden on most OSes).
-4. Create a `bases-auto-search` folder.
-5. Place both files in that folder.
-6. Reload plugins or app.
-7. Enable _Bases Auto Search_ in Settings → Community plugins → Installed plugins.
+3. Open your Obsidian configuration folder (`.obsidian` by default, hidden on most OSes).
+4. Unzip `bases-auto-search.zip` and place it in the `plugins` folder.
+5. Reload plugins or app.
+6. Enable _Bases Auto Search_ in Obsidian settings > Community plugins > Installed plugins.
 
 </details>
