@@ -1,6 +1,6 @@
 {
   "name": "bases-auto-search",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Automatically open the search bar in Bases.",
   "main": "main.js",
   "type": "module",
