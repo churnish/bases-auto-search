@@ -1,0 +1,23 @@
+{
+  "name": "bases-auto-search",
+  "version": "0.0.1",
+  "description": "Automatically open the search bar in Bases.",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "build": "true",
+    "css": "true",
+    "knip": "true",
+    "preversion": "node version-bump.mjs --preflight",
+    "version": "node version-bump.mjs",
+    "postversion": "git push origin main --follow-tags --force-with-lease"
+  },
+  "keywords": [],
+  "author": "churnish",
+  "license": "MIT",
+  "devDependencies": {
+    "@eslint/js": "^9.39.3",
+    "eslint": "^9.39.3",
+    "eslint-plugin-obsidianmd": "^0.1.9"
+  }
+}
