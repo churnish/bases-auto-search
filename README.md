@@ -23,3 +23,7 @@ Until _Bases Auto Search_ is [made available](https://github.com/obsidianmd/obsi
 6. Enable _Bases Auto Search_ in Obsidian settings > Community plugins > Installed plugins.
 
 </details>
+
+## Support
+
+Found a bug or have a feature request? [Open an issue](https://github.com/churnish/bases-auto-search/issues).
