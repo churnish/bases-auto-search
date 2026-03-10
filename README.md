@@ -8,7 +8,7 @@ Until _Bases Auto Search_ is [made available](https://github.com/obsidianmd/obsi
 
 1. Download and enable the [BRAT](https://obsidian.md/plugins?id=obsidian42-brat) plugin.
 2. Run _Add a beta plugin for testing_ in the Command palette.
-3. Paste https://github.com/churnish/bases-auto-search in the text field.
+3. Paste https://github.com/churnish/bases-auto-search.
 4. Select _Latest version_.
 5. Check _Enable after installing the plugin_.
 6. Press _Add Plugin_.
@@ -26,4 +26,6 @@ Until _Bases Auto Search_ is [made available](https://github.com/obsidianmd/obsi
 
 ## Support
 
-Found a bug or have a feature request? [Open an issue](https://github.com/churnish/bases-auto-search/issues).
+- Found a bug or have a feature request? [Open an issue](https://github.com/churnish/bases-auto-search/issues).
+- Have a question? [Start a discussion](https://github.com/churnish/bases-auto-search/discussions).
+- PRs welcome.
