@@ -15,6 +15,8 @@ Until _Bases Auto Search_ is [made available](https://github.com/obsidianmd/obsi
 
 <details><summary>Install manually</summary>
 
+Note: To get updates for *Bases Auto Search*, you will have to check for and install them manually.
+
 1. Download `bases-auto-search.zip` in the `Assets` of the [latest release](https://github.com/churnish/bases-auto-search/releases).
 2. Open the vault folder in the system file manager.
 3. Open your Obsidian configuration folder (`.obsidian` by default, hidden on most OSes).
