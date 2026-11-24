@@ -1,7 +1,7 @@
 name: Feature request
 description: Suggest an improvement or new feature for the Bases Auto Search plugin
+type: Feature
 labels:
-  - Feature request
   - '⚪️ Pending'
 body:
   - type: markdown
